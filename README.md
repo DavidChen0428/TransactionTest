@@ -35,7 +35,7 @@ rollback的條件 :<br>
   - application.properties
 
 ## Test ##
-![Product內的產品資訊](https://drive.google.com/file/d/1ESlF1C0i0Q_UxHqqUvccg49aZenUUbbA/view)<br>
+![Product內的產品資訊](https://drive.google.com/uc?export=view&id=1ESlF1C0i0Q_UxHqqUvccg49aZenUUbbA)<br>
 ![新增一次訂單，新增成功](https://drive.google.com/file/d/1u44Ra_uDiWup6kdUrtpqLo4YzHXUsVba/view?usp=sharing)<br>
 ![新增訂單成功後，商品的庫存減少](https://drive.google.com/file/d/1A04YERue_2-cQbg2ozPJda5ML7_DFTCZ/view?usp=sharing)<br>
 ![新增訂單成功後，訂單資訊出現](https://drive.google.com/file/d/1LhFecyXd1uVtd0aaNk551uuigUmpU6wt/view?usp=sharing)<br>

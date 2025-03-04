@@ -8,6 +8,13 @@ import jakarta.persistence.Table;
 import lombok.Getter;
 import lombok.Setter;
 
+/*
+ * 	商品 :
+ * 		商品編號(id)
+ * 		商品名稱(name)
+ * 		商品庫存(stock)
+ */
+
 @Getter
 @Setter
 @Entity

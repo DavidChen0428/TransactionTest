@@ -14,6 +14,14 @@ import jakarta.persistence.TemporalType;
 import lombok.Getter;
 import lombok.Setter;
 
+/*
+ * 	訂單 :
+ * 		訂單編號(id)
+ * 		商品(product) -> 一張訂單放一個商品
+ * 		商品數量 (quantity)
+ * 		訂單日期(orderDate)
+ */
+
 @Getter
 @Setter
 @Entity

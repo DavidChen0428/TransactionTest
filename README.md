@@ -35,8 +35,8 @@ rollback的條件 :<br>
   - application.properties
 
 ## Test ##
-![Product內的產品資訊](https://drive.google.com/file/d/1ESlF1C0i0Q_UxHqqUvccg49aZenUUbbA/view?usp=drive_link)<br>
-![新增一次訂單，新增成功](https://drive.google.com/file/d/1u44Ra_uDiWup6kdUrtpqLo4YzHXUsVba/view?usp=drive_link)<br>
-![新增訂單成功後，商品的庫存減少](https://drive.google.com/file/d/1A04YERue_2-cQbg2ozPJda5ML7_DFTCZ/view?usp=drive_link)
-![新增訂單成功後，訂單資訊出現](https://drive.google.com/file/d/1LhFecyXd1uVtd0aaNk551uuigUmpU6wt/view?usp=drive_link)<br>
-![再次新增訂單，因為庫存小於訂單內的商品數量，拋出異常，Rollback](https://drive.google.com/file/d/1H_NZM80tur-200f7v9OVjdwjweNYn-4n/view?usp=drive_link)<br>
+![Product內的產品資訊](https://drive.google.com/file/d/1ESlF1C0i0Q_UxHqqUvccg49aZenUUbbA/view?usp=sharing)<br>
+![新增一次訂單，新增成功](https://drive.google.com/file/d/1u44Ra_uDiWup6kdUrtpqLo4YzHXUsVba/view?usp=sharing)<br>
+![新增訂單成功後，商品的庫存減少](https://drive.google.com/file/d/1A04YERue_2-cQbg2ozPJda5ML7_DFTCZ/view?usp=sharing)<br>
+![新增訂單成功後，訂單資訊出現](https://drive.google.com/file/d/1LhFecyXd1uVtd0aaNk551uuigUmpU6wt/view?usp=sharing)<br>
+![再次新增訂單，因為庫存小於訂單內的商品數量，拋出異常，Rollback](https://drive.google.com/file/d/1H_NZM80tur-200f7v9OVjdwjweNYn-4n/view?usp=sharing)<br>
